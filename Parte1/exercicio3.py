@@ -1,0 +1,2 @@
+from dicionario import dic
+
